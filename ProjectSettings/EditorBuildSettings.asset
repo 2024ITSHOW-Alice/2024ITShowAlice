@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Assets/2Assets/Scenes2/Main_Scene.unity
+    guid: 4e6407260c931d742a79affa34289c64
+  - enabled: 1
+    path: Assets/Assets/1Assets/Scenes/Opening_Scene.unity
+    guid: f966b1f63c62229469130e8c7bdaa422
+  - enabled: 1
+    path: Assets/Assets/1Assets/Scenes/Game1_Scene.unity
+    guid: dfd412508f4ee7c48ba6052ab48aa75c
+  - enabled: 1
+    path: Assets/Assets/1Assets/Scenes/Gamesuccess_Scene.unity
+    guid: a8a94ca153cdee440a0cd290246023ee
+  - enabled: 1
+    path: Assets/Assets/2Assets/Scenes2/2GameScene.unity
+    guid: 83766f30e86ecc54fafac6fde4f25fa7
+  - enabled: 1
+    path: Assets/Assets/2Assets/Scenes2/2TalkScene.unity
+    guid: 444e197911a7076479c3595a6246f7ea
+  - enabled: 1
+    path: Assets/Assets/3Assets/3_Dig.unity
+    guid: 22ca8e2f537895e4e9f576f0ac37ee16
+  - enabled: 1
+    path: Assets/Assets/3Assets/3_inGame.unity
+    guid: c02ccbe95e6c2854bbebd071fe270e62
+  - enabled: 1
+    path: Assets/Assets/3Assets/Ending_Ani.unity
+    guid: 919c06472b84b2e48a7930bbcfc6a6ba
+  - enabled: 1
+    path: Assets/Assets/3Assets/Ending_bad.unity
+    guid: 49f1f5ceb3234e54bafbad7c43d49cee
+  - enabled: 1
+    path: Assets/Assets/3Assets/Ending_happy1.unity
+    guid: 616d43de841f0004bb5eedf61b3300a8
+  - enabled: 1
+    path: Assets/Assets/3Assets/Ending_happy2.unity
+    guid: 820f4927b0d49384797807d55ecaac4d
+  - enabled: 1
+    path: Assets/Assets/3Assets/Ending_happy3.unity
+    guid: 5ff781053e614b94786246249d680019
+  - enabled: 1
+    path: Assets/Assets/3Assets/Ending_happy_Dig.unity
+    guid: 0ea3ca978cceded4fb0c20ddaa38ec1e
+  m_configObjects: {}
